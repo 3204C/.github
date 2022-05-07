@@ -1,12 +1,3 @@
-## Hi there 👋
+# VRC Team 3204C
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are VEX Robotics Competition Team from St Peter's College, Palmerston North, New Zealand. Here you will find all of our code from previous seasons, as well as CAD files for our robot. Unfortunatley, we won't be releasing any files for the current season, due to doing so decreasing our team's competitive advantage.
